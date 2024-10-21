@@ -1,4 +1,5 @@
 # Data-Structure-Algorithm
+This repository tracks my progess for practicing Data Structures and Algorithms.
 
 ## Contributor
 
